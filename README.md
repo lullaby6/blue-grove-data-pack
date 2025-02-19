@@ -11,7 +11,7 @@
 
 ![bg](https://raw.githubusercontent.com/lullaby6/blue-grove-data-pack/refs/heads/main/images/bg.png)
 
-blue-grove to save items when players die!
+New biome inspired by Cherry Grove, but with blue tones!
 
 Version: `1.21.X`
 
