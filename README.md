@@ -25,6 +25,14 @@ If you are in a world already created move the downloaded file in the path `.min
 
 Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5xNC) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/blue-grove-data-pack/issues).
 
+## ⌨️ Commands
+
+Locate:
+
+```mcfunction
+/locate biome blue_grove:blue_grove
+```
+
 ## 🪪 License
 
 [MIT](https://github.com/lullaby6/blue-grove-data-pack/blob/main/LICENSE)
