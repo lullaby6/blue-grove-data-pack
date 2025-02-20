@@ -17,6 +17,8 @@ Version: `1.21.X`
 
 ## 📂 Installation
 
+When creating your world, go to the `More` tab and click the `Data Packs` button. Drop the data pack into the area, then move it to the selected data packs section.
+
 Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
 
 ## 👾 Bugs/Issues
