@@ -13,7 +13,7 @@
 
 New biome inspired by Cherry Grove, but with blue tones!
 
-Version: `1.21.X`
+Version: `1.21+`
 
 ## 📂 Installation
 
@@ -23,7 +23,7 @@ If you are in a world already created move the downloaded file in the path `.min
 
 ## 👾 Bugs/Issues
 
-Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5xNC) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/blue-grove-data-pack/issues).
+Please report any problem/bug/issues in the [Discord Server](https://discord.gg/5UdcDa5xNC).
 
 ## ⌨️ Commands
 
